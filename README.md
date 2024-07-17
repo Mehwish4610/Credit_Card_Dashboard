@@ -16,9 +16,14 @@ This is a simple data visualition analysis on credit card data set based on tran
 - 4MH21CS029 [@Victor-Ikechukwu](https://www.github.com/Victor-Ikechukwu)
 - 4MH21CS050 [@mehwish4610](https://www.github.com/mehwish4610)
 
+## Data Analysis using Jupyter Notebook
+
+To view or downoad the notebook click the links below
+
+[downloadNotebook](https://github.com/Mehwish4610/Credit_Card_Dashboard/blob/main/Credit_Card.ipynb)
 
 
-## Deployment
+## Deployment using Power BI
 
 To deploy :
  
