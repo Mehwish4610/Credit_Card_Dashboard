@@ -11,7 +11,7 @@ This is a simple data visualition analysis on credit card data set based on tran
 
 ## Collaborators
 
-- 4MH21CS017 [@Victor-Ikechukwu](https://www.github.com/Victor-Ikechukwu)
+- 4MH21CS017 [@deekshithagowda07](https://www.github.com/deekshithagowda07)
 - 4MH21CS018 [@deekshitha24](https://www.github.com/deekhitha24)
 - 4MH21CS029 [@Victor-Ikechukwu](https://www.github.com/Victor-Ikechukwu)
 - 4MH21CS050 [@mehwish4610](https://www.github.com/mehwish4610)
