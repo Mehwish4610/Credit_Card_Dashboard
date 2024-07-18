@@ -20,7 +20,7 @@ This is a simple data visualition analysis on credit card data set based on tran
 
 To view or downoad the notebook click the links below
 
-[downloadNotebook](https://github.com/Mehwish4610/Credit_Card_Dashboard/blob/main/Credit_Card.ipynb)
+[downloadNotebook](https://github.com/Mehwish4610/Credit_Card_Dashboard/blob/main/Credit_Card%20(1).ipynb)
 
 
 ## Deployment using Power BI
